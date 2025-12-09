@@ -21,5 +21,3 @@ RealTrainModで「**河津重工業**」という名義で成果物の配布を�
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KozuR1veeeer&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KozuR1veeeer&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KozuR1veeeer&theme=github_dark&utcOffset=9)
