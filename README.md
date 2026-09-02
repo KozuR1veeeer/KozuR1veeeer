@@ -17,8 +17,8 @@ RealTrainModで「**河津重工**」という名義で成果物の配布を行�
 
 ### 関連リンク
 * [X - 河(@A1nx_R1ver)](https://x.com/A1nx_R1ver)
-* [X - 河津重工業(@Kozu_Heavy_Ind)](https://x.com/Kozu_Heavy_Ind)
-* [RTM Addon Search - 河津重工業](https://rtmaddon-search.com/%e6%b2%b3%e6%b4%a5%e9%87%8d%e5%b7%a5/)
+* [X - 河津重工(@Kozu_Heavy_Ind)](https://x.com/Kozu_Heavy_Ind)
+* [RTM Addon Search - 河津重工](https://rtmaddon-search.com/%e6%b2%b3%e6%b4%a5%e9%87%8d%e5%b7%a5/)
 
 **※バグ・不具合報告は当該パックのIssuesから報告お願いします。**
 
